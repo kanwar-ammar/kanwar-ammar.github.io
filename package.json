@@ -4,11 +4,10 @@
 	"homepage": "https://kanwar-ammar.github.io/",
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
-		"name": "Tharindu N. Madhusanka",
-		"email": "mail@tharindu.dev",
-		"url": "https://tharindu.dev"
+		"name": "Kanwar Ammar",
+		"email": "kanwarammar95@gmail.com",
+		"url": "https://kanwar-ammar.github.io/"
 	},
-	"license": "MIT",
 	"private": true,
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.4.0",

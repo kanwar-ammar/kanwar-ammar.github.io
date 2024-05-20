@@ -44,7 +44,7 @@ function article_2() {
 		date: "21 Oct 2021 - 21 Mar 2022",
 		title: "Jr. Software Engineer",
 		description:
-			"AI is transforming the healthcare industry, from improving patient outcomes to streamlining operations. Discover the latest applications of this game-changing technology.",
+			"During my graduation, I realized that industry project experience is crucial for understanding advanced computer science concepts, verifying my skills, and further refining them. Consequently, I started working as a Junior Software Engineer. In this role, I was responsible for designing, developing, and implementing scalable backend systems for web applications. Additionally, I gained frontend skills, including responsive design, optimized component distribution, creating reusable components, and efficient data API fetching",
 		style: ``,
 		keywords: [
 			"Artificial Intelligence in Healthcare",
@@ -65,7 +65,7 @@ function article_3() {
 		date: "5 June 2022 - 5 October 2022",
 		title: "Front-End Intern",
 		description:
-			"AI is transforming the healthcare industry, from improving patient outcomes to streamlining operations. Discover the latest applications of this game-changing technology.",
+			"As I approached graduation, I developed a strong interest in creating interactive and attractive UIs for web applications. To pursue this passion, I joined WonderTech as a Front-End Intern, where I deepened my knowledge of React, Thunk APIs, state management, and components. Later, I was assigned to the front-end development of a Learning Management System (LMS) project, where I applied and honed these skills.",
 		style: ``,
 		keywords: [
 			"Artificial Intelligence in Healthcare",
@@ -86,7 +86,7 @@ function article_4() {
 		date: "5 October 2022 - Present",
 		title: "MERN Stack Engineer",
 		description:
-			"AI is transforming the healthcare industry, from improving patient outcomes to streamlining operations. Discover the latest applications of this game-changing technology.",
+			"After gaining substantial experience in both backend and frontend development and a thorough understanding of the project life cycle for a MERN stack project, I was promoted to MERN Stack Engineer. In this role, I was fully assigned to the LMS project, handling both backend and frontend development, creating its deployment cycle, optimizing storage, and integrating live features such as commenting and messaging. Additionally, I ensured robust database management, which reinforced my understanding of relations and associations in databases.",
 		style: ``,
 		keywords: [
 			"Artificial Intelligence in Healthcare",

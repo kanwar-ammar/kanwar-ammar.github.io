@@ -9,7 +9,7 @@ const INFO = {
 	socials: {
 		twitter: "https://twitter.com/",
 		github: "https://github.com/kanwar-ammar",
-		linkedin: "https://linkedin.com/",
+		linkedin: "https://www.linkedin.com/in/kanwar-ammar/",
 		instagram: "https://instagram.com/",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
@@ -24,7 +24,7 @@ const INFO = {
 	about: {
 		title: "I’m Kanwar Ammar I live in Pakistan, I help people with innovative technical solutions.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I've worked on various projects over the years and am proud of my progress. My professional projects are based on the MERN stack and include databases like MySQL. My academic projects demonstrate my understanding of other languages and my creativity. I'm always eager to learn and explore innovative technologies, and I'm open to new ideas and feedback.",
 	},
 
 	articles: {

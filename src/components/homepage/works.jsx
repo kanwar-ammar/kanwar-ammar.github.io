@@ -24,7 +24,7 @@ const Works = () => {
 								Jr. Software Engineer
 							</div>
 							<div className="work-duration">
-								May 2020 - April 2021
+								October 2021 - March 2022
 							</div>
 						</div>
 

@@ -28,7 +28,7 @@ const INFO = {
 	},
 
 	articles: {
-		title: "Here, I share the key milestones of my academic and professional journey, detailing the experiences, accomplishments, and lessons that have shaped my path and driven my passion for continuous growth and learning.",
+		title: "Here, I outline key milestones of my academic and professional journey, reflecting my passion for continuous growth and learning.",
 		description:
 			"My journey of thorugout what I have achieved and where I've been till now.",
 	},
@@ -37,7 +37,7 @@ const INFO = {
 		{
 			title: "Indi Music",
 			description:
-				"A music application where a user can register himself and import their playlists from spotify and deezer to create a new playlist and enjoy songs from different application on single platform.",
+				"A music application where users can register, import their playlists from Spotify and Deezer, create new playlists, and enjoy songs from multiple applications on a single platform.",
 			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png",
 			linkText: "View Project",
 			link: "https://github.com",
@@ -46,26 +46,63 @@ const INFO = {
 		{
 			title: "NextQuestUp",
 			description:
-				"A live platform to connect artists and users to play requested songs during a music event or a party just by sending a single request tothe artsist",
+				"A live platform that connects artists and users, allowing users to request songs during a music event or party with a single request to the artist.",
 			logo: "../Project2logo.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
 
+		// {
+		// 	title: "The Book Store",
+		// 	description:
+		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+		// 	logo: "https://www.svgrepo.com/show/183118/library-book.svg",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com",
+		// },
+
 		{
-			title: "The Book Store",
+			title: "LMS",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://www.svgrepo.com/show/183118/library-book.svg",
+				"An intra-organization LMS with various roles, allowing users to create custom, embedded, or SCORM courses for employees to learn and earn certificates. The platform handles authentication, certification, and reporting for all learners.",
+			logo: "https://cdn-icons-png.flaticon.com/512/2904/2904847.png",
+			linkText: "View Project",
+			link: "https://github.com",
+		},
+	],
+
+	personalProjects: [
+		{
+			title: "E-Voting System",
+			description:
+				"An online electronic voting system where users can create events, allow others to vote by a specified deadline, tally votes for competitors, and announce a winner.",
+			logo: "https://cdn-icons-png.flaticon.com/512/1533/1533890.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
 
 		{
-			title: "LMS",
+			title: "Backgammon",
 			description:
-				"An intraorganisation LMS with various roles in it where a user can create custom, embedded or SCORM courses for other employees at the organization for them to learn and earn certificates. The platform performs various functions of aunthentication, certifications and reportings of all the learners",
-			logo: "https://w7.pngwing.com/pngs/826/933/png-transparent-learning-management-system-education-lms-thumbnail.png",
+				"Backgammon is a two-player board game built using a stack data structure. Players roll dice, place their tokens accordingly, and receive possible moves for their tokens. The winner is announced when a player has no possible moves or loses all their tokens.",
+			logo: "https://cdn-icons-png.flaticon.com/512/103/103234.png",
+			linkText: "View Project",
+			link: "https://github.com",
+		},
+		{
+			title: "Diet Recommendation System",
+			description:
+				"A diet recommendation system that uses unsupervised learning to categorize people into three groups: underweight, healthy, and obese.",
+			logo: "https://cdn-icons-png.flaticon.com/512/1784/1784216.png",
+			linkText: "View Project",
+			link: "https://github.com",
+		},
+
+		{
+			title: "AI-Based Event Coverage",
+			description:
+				"This project involved a drone capturing activities, objects, and people at events, with modes like surveillance and photography controlled by hand gestures. Built upon Machine Learning and AI with the concepts of hand body landmark detection, face detection, and multiple object objection.",
+			logo: "https://cdn-icons-png.flaticon.com/512/90/90909.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},

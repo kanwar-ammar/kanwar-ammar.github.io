@@ -17,6 +17,18 @@ const About = () => {
 		window.scrollTo(0, 0);
 	}, []);
 
+	const downloadResume = () => {
+		const a = document.createElement("a");
+		a.href = "/Resume Kanwar Ammar Ali.pdf";
+		a.download = "resume";
+
+		// Trigger a click event on the <a> element to start the download
+		a.click();
+
+		// Release the object URL
+		window.URL.revokeObjectURL("/Resume Kanwar Ammar Ali.pdf");
+	};
+
 	const currentSEO = SEO.find((item) => item.page === "about");
 
 	return (
@@ -49,8 +61,13 @@ const About = () => {
 								<div className="subtitle about-subtitle">
 									{INFO.about.description}
 								</div>
-								<button className="about-resume-button">
+								<button
+									onClick={() => downloadResume()}
+									className="about-resume-button"
+								>
+									{/* <a href="/Resume Kanwar Ammar Ali.pdf"> */}
 									Resume
+									{/* </a> */}
 									{/* <div style={{ paddingLeft: "10px" }}>
 										<img
 											width="20px"

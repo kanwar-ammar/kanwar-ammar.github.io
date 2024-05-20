@@ -5,7 +5,7 @@ import NavBar from "../components/common/navBar";
 import Footer from "../components/common/footer";
 import Logo from "../components/common/logo";
 import AllProjects from "../components/projects/allProjects";
-
+import AllPersonalProjects from "../components/projects/allPersonalProjects";
 import INFO from "../data/user";
 import SEO from "../data/seo";
 
@@ -43,7 +43,7 @@ const Projects = () => {
 							universe.
 						</div>
 
-						<div className="subtitle projects-subtitle">
+						<div className="subtitle projects-subtitle ">
 							I've worked on a variety of projects over the years
 							and I'm proud of the progress I've made. Many of
 							these projects are open-source and available for
@@ -55,9 +55,15 @@ const Projects = () => {
 							learn and grow, and I'm always open to new ideas and
 							feedback.
 						</div>
-
+						<div className="title  project-section-title">
+							Professional:
+						</div>
 						<div className="projects-list">
 							<AllProjects />
+						</div>
+						<div className="title projects-title">Personal:</div>
+						<div className="projects-list">
+							<AllPersonalProjects />
 						</div>
 					</div>
 				</div>

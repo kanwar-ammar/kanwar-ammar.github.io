@@ -3,7 +3,7 @@ const INFO = {
 		title: "Portfolio",
 		name: "Kanwar Ammar Ali",
 		email: "kanwarammar95@gmail.com",
-		logo: "../logo.png",
+		logo: "../Illustration_Me1.jpg",
 	},
 
 	socials: {
